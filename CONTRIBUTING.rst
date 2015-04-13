@@ -3,7 +3,7 @@ Contributing
 ============
 
 Please note that this project is released with a `Contributor Code of Conduct
-<https://pulsar.readthedocs.org/en/latest/conduct.html>`. By participating in
+<https://pulsar.readthedocs.org/en/latest/conduct.html>`_. By participating in
 this project you agree to abide by its terms.
 
 Contributions are welcome, and they are greatly appreciated! Every
